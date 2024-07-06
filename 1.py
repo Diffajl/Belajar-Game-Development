@@ -1,3 +1,5 @@
+# game ini saya beri nama roroketan :v
+
 import pygame
 import random
 import math
